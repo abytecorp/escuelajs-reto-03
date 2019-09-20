@@ -1,13 +1,13 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Bryan Murcia
+Usuario Platzi: @ImGroot
 
 ## Ciudad
 - [ ] Ciudad de México
-- [ ] Bogotá
+- [ * ] Bogotá
 
 # Retos:
-  - [ ] Primer problema
-  - [ ] Segundo problema
-  - [ ] Tercer problema
+  - [ * ] Primer problema
+  - [ * ] Segundo problema
+  - [ * ] Tercer problema
